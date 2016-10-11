@@ -1,0 +1,15 @@
+{
+  "name": "skill-assessment",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
